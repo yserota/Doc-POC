@@ -1,0 +1,18 @@
+I"N<h3 id="this-is-a-test-file">This is a test file</h3>
+
+<h2 id="this-topic-describes-how-to-do-something">This topic describes how to do something</h2>
+
+<ul>
+  <li>Thing 1</li>
+  <li>Thing 2</li>
+  <li>Thing 3</li>
+</ul>
+
+<p>Do the following:</p>
+
+<ol>
+  <li>First do this</li>
+  <li>Second do this</li>
+  <li>Third do this</li>
+</ol>
+:ET
